@@ -1,0 +1,7 @@
+item,value
+row_count,103904
+column_count,25
+categorical_column_count,5
+numeric_column_count,20
+target_column,satisfaction
+missing_value_column_count,1
