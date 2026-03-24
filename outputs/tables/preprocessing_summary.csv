@@ -1,0 +1,9 @@
+item,value
+raw_rows,103904
+raw_columns,25
+clean_rows,103904
+clean_columns,23
+categorical_feature_count,4
+numeric_feature_count,18
+train_rows,83123
+test_rows,20781
