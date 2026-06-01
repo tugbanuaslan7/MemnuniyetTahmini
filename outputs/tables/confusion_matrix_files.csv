@@ -1,0 +1,9 @@
+Model,Confusion Matrix File
+kNN,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_knn_external.png
+Naive Bayes,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_naive_bayes_external.png
+Logistic Regression,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_logistic_regression_external.png
+LSVM,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_lsvm_external.png
+RBF SVM,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_rbf_svm_external.png
+Random Forest,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_random_forest_external.png
+MLP,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_mlp_external.png
+XGBoost,c:\ML\MemnuniyetTahmini\outputs\figures\confusion_matrix_xgboost_external.png
